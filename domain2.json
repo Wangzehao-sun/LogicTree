@@ -1,0 +1,32 @@
+{
+    "Technology": {
+        "Software": ["Web Development", "Mobile Apps", "AI & Machine Learning", "Cloud Computing"],
+        "Hardware": ["Computer Components", "Networking Equipment", "IoT Devices"]
+    },
+    "Science": {
+        "Physics": ["Quantum Mechanics", "Classical Mechanics", "Thermodynamics"],
+        "Biology": ["Genetics", "Microbiology", "Ecology"],
+        "Chemistry": ["Organic Chemistry", "Inorganic Chemistry", "Analytical Chemistry"]
+    },
+    "Business": {
+        "Finance": ["Banking", "Investment", "Accounting", "Insurance"],
+        "Marketing": ["Digital Marketing", "Brand Management", "Market Research"],
+        "Management": ["Project Management", "Human Resources", "Operations"]
+    },
+    "Arts": {
+        "Visual Arts": ["Painting", "Sculpture", "Photography"],
+        "Performing Arts": ["Theater", "Dance", "Music"]
+    },
+    "Health": {
+        "Medicine": ["Cardiology", "Neurology", "Pediatrics"],
+        "Wellness": ["Nutrition", "Mental Health", "Fitness"]
+    },
+    "Education": {
+        "Primary Education": ["Mathematics", "Science", "Literature"],
+        "Higher Education": ["Engineering", "Business Studies", "Philosophy"]
+    },
+    "Sports": {
+        "Team Sports": ["Football", "Basketball", "Cricket"],
+        "Individual Sports": ["Tennis", "Athletics", "Swimming"]
+    }
+}

@@ -1,0 +1,7 @@
+*/*.json
+*/*.jsonl
+*/*/*.json
+*/*/*.jsonl
+!SymbolicLogicTree/
+!SymbolicLogicTree/*.jsonl
+__pycache__/
