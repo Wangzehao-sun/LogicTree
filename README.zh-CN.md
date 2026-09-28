@@ -1,10 +1,26 @@
-# LogicTree
+<div align="center">
 
-[![tests](https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml/badge.svg)](https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml)
+<h1>🌳 LogicTree: Improving Complex Reasoning of LLMs via Instantiated Multi-step Synthetic Logical Data</h1>
 
-[English](README.md)
+<p><em>一个用于合成复杂、实例化、多步逻辑推理数据的框架。</em></p>
 
-LogicTree 是一个合成逻辑推理数据生成框架。它先从目标结论反向构造符号逻辑树，再通过语言模型将符号规则转换为语义连贯的现实场景，最终生成选择题或长文本推理数据。
+<img src="docs/assets/logictree-overview.svg" alt="LogicTree 框架流程图" width="95%">
+
+<p>
+  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115083"><img src="https://img.shields.io/badge/PAPER-NeurIPS%202025-b31b1b?style=for-the-badge" alt="论文"></a>
+  <a href="https://github.com/Wangzehao-sun/LogicTree"><img src="https://img.shields.io/badge/CODE-LogicTree-111111?style=for-the-badge&logo=github" alt="代码"></a>
+  <a href="https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Wangzehao-sun/LogicTree/tests.yml?style=for-the-badge&label=TESTS" alt="测试"></a>
+</p>
+
+<p><a href="README.md">English</a></p>
+
+</div>
+
+---
+
+## 📚 项目简介
+
+LogicTree 从目标结论出发反向构造符号逻辑树，再通过语言模型将符号规则转换为语义连贯的现实场景，最终生成选择题或长文本推理数据。
 
 ## 运行流程
 

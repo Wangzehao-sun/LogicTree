@@ -1,10 +1,26 @@
-# LogicTree
+<div align="center">
 
-[![tests](https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml/badge.svg)](https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml)
+<h1>🌳 LogicTree: Improving Complex Reasoning of LLMs via Instantiated Multi-step Synthetic Logical Data</h1>
 
-[简体中文](README.zh-CN.md)
+<p><em>A framework for synthesizing complex, instantiated, multi-step logical reasoning data.</em></p>
 
-LogicTree is a framework for generating synthetic logical-reasoning data. It constructs symbolic deduction trees backwards from a conclusion, uses a language model to ground the symbols in coherent real-world scenarios, and produces multiple-choice or long-form reasoning data.
+<img src="docs/assets/logictree-overview.svg" alt="LogicTree framework overview" width="95%">
+
+<p>
+  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115083"><img src="https://img.shields.io/badge/PAPER-NeurIPS%202025-b31b1b?style=for-the-badge" alt="Paper"></a>
+  <a href="https://github.com/Wangzehao-sun/LogicTree"><img src="https://img.shields.io/badge/CODE-LogicTree-111111?style=for-the-badge&logo=github" alt="Code"></a>
+  <a href="https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Wangzehao-sun/LogicTree/tests.yml?style=for-the-badge&label=TESTS" alt="Tests"></a>
+</p>
+
+<p><a href="README.zh-CN.md">简体中文</a></p>
+
+</div>
+
+---
+
+## 📚 Overview
+
+LogicTree constructs symbolic deduction trees backwards from a conclusion, uses a language model to ground the symbols in coherent real-world scenarios, and produces multiple-choice or long-form reasoning data.
 
 ## Pipeline
 
