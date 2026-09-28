@@ -1,0 +1,361 @@
+{
+  "Formal Sciences": {
+    "Mathematics": [
+      "Mathematical Logic & Foundations",
+      "Algebra (Abstract, Linear, Commutative)",
+      "Analysis (Real, Complex, Functional, Harmonic)",
+      "Geometry (Euclidean, Differential, Algebraic, Non-Euclidean)",
+      "Topology (Point-set, Algebraic, Geometric)",
+      "Number Theory (Analytic, Algebraic)",
+      "Combinatorics",
+      "Graph Theory",
+      "Dynamical Systems & Chaos Theory",
+      "Category Theory"
+    ],
+    "Statistics & Probability": [
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Stochastic Processes",
+      "Biostatistics",
+      "Computational Statistics",
+      "Actuarial Science"
+    ],
+    "Computer Science & Information Systems": [
+      "Theory of Computation (Automata, Complexity, Computability)",
+      "Algorithms & Data Structures",
+      "Programming Languages & Type Theory",
+      "Software Engineering (Requirements, Design, Testing)",
+      "Computer Architecture & Hardware",
+      "Operating Systems & Virtualization",
+      "Distributed Systems & Cloud Computing",
+      "Computer Networks & Telecommunications",
+      "Cybersecurity & Cryptography",
+      "Database Systems & Information Retrieval",
+      "Artificial Intelligence (ML, DL, RL, Knowledge Rep)",
+      "Computer Vision & Image Processing",
+      "Natural Language Processing (NLP)",
+      "Robotics & Autonomous Systems",
+      "Human-Computer Interaction (HCI)",
+      "Computer Graphics & Visualization",
+      "Quantum Computing",
+      "Bioinformatics & Computational Biology"
+    ],
+    "Systems Science": [
+      "Control Theory",
+      "Cybernetics",
+      "Operations Research",
+      "Complex Systems",
+      "Information Theory"
+    ]
+  },
+  "Natural Sciences": {
+    "Physics": [
+      "Classical Mechanics",
+      "Electromagnetism",
+      "Thermodynamics & Statistical Mechanics",
+      "Quantum Mechanics",
+      "Relativity (Special & General)",
+      "Particle Physics (High Energy Physics)",
+      "Nuclear Physics",
+      "Atomic, Molecular, and Optical Physics (AMO)",
+      "Condensed Matter Physics",
+      "Plasma Physics",
+      "Astrophysics & Cosmology",
+      "Biophysics"
+    ],
+    "Chemistry": [
+      "Analytical Chemistry",
+      "Inorganic Chemistry",
+      "Organic Chemistry",
+      "Physical Chemistry",
+      "Theoretical & Quantum Chemistry",
+      "Biochemistry",
+      "Materials Chemistry",
+      "Polymer Chemistry",
+      "Environmental Chemistry",
+      "Medicinal Chemistry",
+      "Nuclear Chemistry"
+    ],
+    "Biology & Life Sciences": [
+      "Molecular Biology",
+      "Cell Biology",
+      "Genetics & Genomics",
+      "Microbiology (Bacteriology, Virology, Mycology)",
+      "Immunology",
+      "Neuroscience & Neurobiology",
+      "Developmental Biology",
+      "Physiology (Human, Animal, Plant)",
+      "Botany (Plant Sciences)",
+      "Zoology",
+      "Ecology & Evolutionary Biology",
+      "Paleontology",
+      "Marine Biology",
+      "Synthetic Biology"
+    ],
+    "Earth & Planetary Sciences": [
+      "Geology (Structural, Tectonics)",
+      "Mineralogy & Petrology",
+      "Geophysics & Seismology",
+      "Geochemistry",
+      "Paleontology",
+      "Atmospheric Science (Meteorology, Climatology)",
+      "Oceanography (Physical, Chemical, Biological)",
+      "Hydrology & Glaciology",
+      "Soil Science",
+      "Planetary Science"
+    ],
+    "Astronomy": [
+      "Observational Astronomy",
+      "Radio Astronomy",
+      "Stellar Astronomy",
+      "Galactic & Extragalactic Astronomy",
+      "Exoplanetology"
+    ]
+  },
+  "Social Sciences": {
+    "Psychology": [
+      "Cognitive Psychology",
+      "Behavioral Psychology",
+      "Developmental Psychology",
+      "Social Psychology",
+      "Clinical & Counseling Psychology",
+      "Industrial-Organizational Psychology",
+      "Neuropsychology",
+      "Educational Psychology",
+      "Forensic Psychology"
+    ],
+    "Sociology": [
+      "Sociological Theory",
+      "Social Stratification & Inequality",
+      "Demography",
+      "Urban & Rural Sociology",
+      "Criminology & Penology",
+      "Sociology of Religion/Family/Education",
+      "Gender & Sexuality Studies"
+    ],
+    "Economics": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Econometrics",
+      "Development Economics",
+      "Behavioral Economics",
+      "Labor Economics",
+      "International Trade & Finance",
+      "Public Economics",
+      "Economic History"
+    ],
+    "Political Science": [
+      "Political Theory & Philosophy",
+      "Comparative Politics",
+      "International Relations",
+      "Public Administration",
+      "Public Policy",
+      "Political Economy",
+      "Geopolitics"
+    ],
+    "Anthropology": [
+      "Cultural Anthropology",
+      "Biological/Physical Anthropology",
+      "Linguistic Anthropology",
+      "Archaeology (often shared with History)",
+      "Medical Anthropology"
+    ],
+    "Geography (Human)": [
+      "Cultural Geography",
+      "Economic Geography",
+      "Political Geography",
+      "Urban Geography",
+      "Transportation Geography"
+    ],
+    "Interdisciplinary Social Sciences": [
+      "Area Studies (African, Asian, European, etc.)",
+      "Ethnic Studies",
+      "Gender & Women's Studies",
+      "Media & Communication Studies",
+      "Science & Technology Studies (STS)"
+    ]
+  },
+  "Humanities": {
+    "History": [
+      "Prehistory",
+      "Ancient History",
+      "Medieval History",
+      "Early Modern History",
+      "Modern & Contemporary History",
+      "Military History",
+      "History of Science & Technology",
+      "Diplomatic History",
+      "Oral History"
+    ],
+    "Philosophy": [
+      "Metaphysics",
+      "Epistemology",
+      "Logic (Philosophical)",
+      "Ethics (Moral Philosophy)",
+      "Aesthetics",
+      "Political Philosophy",
+      "Philosophy of Mind/Language/Science",
+      "Phenomenology & Existentialism"
+    ],
+    "Linguistics & Languages": [
+      "Phonetics & Phonology",
+      "Morphology & Syntax",
+      "Semantics & Pragmatics",
+      "Sociolinguistics",
+      "Psycholinguistics",
+      "Historical Linguistics",
+      "Computational Linguistics",
+      "Philology"
+    ],
+    "Literature": [
+      "Literary Theory & Criticism",
+      "Comparative Literature",
+      "Creative Writing",
+      "Poetry, Prose, Drama",
+      "World Literature (by region/language)"
+    ],
+    "Religious Studies & Theology": [
+      "Comparative Religion",
+      "Theology",
+      "Scriptural Studies",
+      "History of Religion",
+      "Philosophy of Religion"
+    ],
+    "Arts (History & Theory)": [
+      "Art History",
+      "Musicology & Music Theory",
+      "Film & Cinema Studies",
+      "Theater & Performance Studies",
+      "Dance History"
+    ]
+  },
+  "Applied Sciences & Professions": {
+    "Medicine & Health Sciences": [
+      "Anesthesiology",
+      "Cardiology",
+      "Dermatology",
+      "Emergency Medicine",
+      "Endocrinology",
+      "Gastroenterology",
+      "Geriatrics",
+      "Hematology",
+      "Infectious Diseases",
+      "Neurology",
+      "Oncology",
+      "Pediatrics",
+      "Psychiatry",
+      "Radiology",
+      "Surgery (General, Neuro, Cardio, Orthopedic)",
+      "Nursing",
+      "Pharmacy & Pharmacology",
+      "Dentistry",
+      "Veterinary Medicine",
+      "Public Health & Epidemiology",
+      "Rehabilitation Science (PT/OT)",
+      "Medical Laboratory Science"
+    ],
+    "Engineering & Technology": [
+      "Aerospace & Aeronautical Engineering",
+      "Biomedical Engineering",
+      "Chemical Engineering",
+      "Civil & Structural Engineering",
+      "Electrical & Electronics Engineering",
+      "Computer Engineering",
+      "Environmental Engineering",
+      "Industrial & Systems Engineering",
+      "Materials Science & Engineering",
+      "Mechanical Engineering",
+      "Mechatronics & Robotics",
+      "Nuclear Engineering",
+      "Petroleum & Mining Engineering",
+      "Nanotechnology"
+    ],
+    "Business & Management": [
+      "Accounting",
+      "Finance & Banking",
+      "Marketing & Consumer Behavior",
+      "Management & Leadership",
+      "Human Resource Management",
+      "Supply Chain & Operations Management",
+      "Entrepreneurship",
+      "International Business",
+      "Management Information Systems (MIS)",
+      "Hospitality & Tourism Management"
+    ],
+    "Law & Legal Studies": [
+      "Constitutional Law",
+      "Criminal Law",
+      "Civil Law (Contract, Tort, Property)",
+      "Corporate & Commercial Law",
+      "International Law",
+      "Intellectual Property Law",
+      "Human Rights Law",
+      "Environmental Law"
+    ],
+    "Education": [
+      "Curriculum & Instruction",
+      "Educational Administration",
+      "Educational Psychology",
+      "Special Education",
+      "Higher Education",
+      "Early Childhood Education",
+      "Instructional Technology"
+    ],
+    "Architecture, Design & Planning": [
+      "Architecture",
+      "Urban & Regional Planning",
+      "Landscape Architecture",
+      "Interior Design",
+      "Industrial Product Design",
+      "Fashion Design",
+      "Graphic & User Experience (UX) Design"
+    ],
+    "Agriculture & Natural Resources": [
+      "Agronomy & Crop Science",
+      "Horticulture",
+      "Animal Science",
+      "Forestry & Fishery",
+      "Food Science & Technology",
+      "Agricultural Economics"
+    ],
+    "Media, Journalism & Communication": [
+      "Journalism",
+      "Public Relations",
+      "Advertising",
+      "Broadcasting & Digital Media",
+      "Mass Communication"
+    ],
+    "Military & Security Sciences": [
+      "Military Strategy & Tactics",
+      "National Security Studies",
+      "Intelligence Analysis",
+      "Military Logistics",
+      "Naval Science"
+    ],
+    "Sports Science & Kinesiology": [
+      "Exercise Physiology",
+      "Sports Biomechanics",
+      "Sports Psychology",
+      "Sports Management",
+      "Athletic Training"
+    ],
+    "Library & Information Science": [
+      "Archival Science",
+      "Cataloging & Metadata",
+      "Information Retrieval",
+      "Knowledge Management"
+    ],
+    "Transportation & Logistics": [
+      "Aviation & Aeronautics (Operations)",
+      "Maritime Studies",
+      "Logistics Management",
+      "Transportation Systems Analysis"
+    ],
+    "Family & Consumer Sciences": [
+      "Nutrition & Dietetics",
+      "Family Studies",
+      "Consumer Affairs",
+      "Textiles & Apparel"
+    ]
+  }
+}

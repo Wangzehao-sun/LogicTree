@@ -1,7 +1,30 @@
-*/*.json
-*/*.jsonl
-*/*/*.json
-*/*/*.jsonl
-!SymbolicLogicTree/
-!SymbolicLogicTree/*.jsonl
+# Python
 __pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated datasets and run artifacts
+outputs/
+data/input/
+statistic/
+*.log
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp
