@@ -9,7 +9,6 @@
 <p>
   <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115083"><img src="https://img.shields.io/badge/PAPER-NeurIPS%202025-b31b1b?style=for-the-badge" alt="Paper"></a>
   <a href="https://github.com/Wangzehao-sun/LogicTree"><img src="https://img.shields.io/badge/CODE-LogicTree-111111?style=for-the-badge&logo=github" alt="Code"></a>
-  <a href="https://github.com/Wangzehao-sun/LogicTree/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Wangzehao-sun/LogicTree/tests.yml?style=for-the-badge&label=TESTS" alt="Tests"></a>
 </p>
 
 <p><a href="README.zh-CN.md">简体中文</a></p>
